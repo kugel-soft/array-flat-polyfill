@@ -11,6 +11,7 @@
   "module": "index.mjs",
   "files": [
     "index.js",
+    "index.min.js",
     "index.mjs"
   ],
   "scripts": {
